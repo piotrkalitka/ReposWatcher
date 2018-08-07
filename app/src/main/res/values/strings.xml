@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ReposWatcher</string>
+
+    <string name="loading_title">Ładowanie</string>
+    <string name="loading_message">Czekaj, trwa ładowanie&#8230;</string>
+
+    <string name="sort_alphabetical">Posortuj alfabetycznie</string>
+
+    <string name="loading_error_title">Błąd</string>
+    <string name="loading_error_message">Wystąpił błąd podczas ładowania danych. Czy chcesz spróbować ponownie</string>
+    <string name="loading_error_positive_btn">Tak</string>
+    <string name="loading_error_negative_btn">Nie, zamknij aplikację</string>
+</resources>
